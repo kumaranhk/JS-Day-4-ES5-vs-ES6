@@ -1,0 +1,49 @@
+{
+    "resumeData" : {
+        "personalInfo" : {
+            "name" : "Kumaran",
+            "email" : "kumaran@gmail.com",
+            "contactNumber" : 9876543210,
+            "location" : "chennai"
+        },
+        "academicInfo" :{
+            "college" : {
+                "degree" : "Bachelor of engineering",
+                "collegeName" : "Dr.Mahalingam college of engineering and technology",
+                "passedOutYear" : 2022,
+                "cgpa" : 8.6,
+                "place" : "Pollachi",
+                "branch" : "Mechanical"
+            },
+            "school" : {
+                "highSchool" : {
+                    "percengtage" : 91,
+                    "passedOutYear" : 2016
+                },
+                "higherSecondary" : {
+                    "percengtage" : 81,
+                    "passedOutYear" : 2018,
+                    "majorSubject" : "Maths"
+                }
+            }
+        },    
+        "workExperience" : {
+                "role" : "QA automaion engineer",
+                "from" : 2023,
+                "currentlyWorking" : true,
+                "company" : "VisAi labs"
+        },
+        "languagesKonwn" : {
+                "tamil" : {
+                    "writing" : "Professional",
+                    "speaking" : "Professional" 
+                },
+                "english" : {
+                    "writing" : "Professional",
+                    "speaking" : "Professional"
+                }
+        },
+        "intersts" : ["Travel","Reading books"],
+        "skills" : ["html","css","javaScript","ReactJS","NodeJS"]
+    }
+}
